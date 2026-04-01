@@ -1,0 +1,5 @@
+{
+  "name": "XFLOW - Twitter Content Automation",
+  "description": "A personal dashboard to scan trending topics, generate viral Twitter posts using AI, and find relevant images for one-click posting.",
+  "requestFramePermissions": []
+}
